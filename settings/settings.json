@@ -1,0 +1,34 @@
+{
+  "watchFolders": [
+    "C:/Users/tomau/Downloads"
+  ],
+  "targetFolders": {
+    "images": "C:/Users/tomau/Pictures",
+    "videos": "C:/Users/tomau/Videos",
+    "docs": "C:/Users/tomau/Documents",
+    "archives": "C:/Users/tomau/Archives",
+    "music": "C:/Users/tomau/Music",
+    "executables": "C:/Users/tomau/Desktop"
+  },
+  "extensionMapping": {
+    "jpg": "images",
+    "png": "images",
+    "jpeg": "images",
+    "ico": "images",
+    "gif": "images",
+    "webp": "images",
+    "mp4": "videos",
+    "mkv": "videos",
+    "docx": "docs",
+    "txt": "docs",
+    "xlsx": "docs",
+    "pptx": "docs",
+    "mp3": "music",
+    "wav": "music",
+    "flac": "music",
+    "avi": "videos",
+    "pdf": "docs",
+    "zip": "archives",
+    "rar": "archives"
+  }
+}
